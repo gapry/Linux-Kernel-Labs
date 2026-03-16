@@ -1,6 +1,6 @@
 [submodule "kernel"]
 	path = kernel
-	url = git@github.com:gapry/Linux-Kernel-Labs.git
+	url = git@github.com:gapry/Linux-Kernel.git
 [submodule "buildroot"]
 	path = buildroot
 	url = git@github.com:gapry/buildroot.git
