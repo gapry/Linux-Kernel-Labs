@@ -1,3 +1,11 @@
+# buildroot
+buildroot/output/
+buildroot/.config
+buildroot/.config.old
+
+# app
+build/
+
 # Prerequisites
 *.d
 
